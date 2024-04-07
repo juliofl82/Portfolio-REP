@@ -2,7 +2,7 @@ import SocialIcons from '../../assets/SocialIcons.svg';
 import styles from "./style.module.css";
 import {user} from "../../data/user";
 
-export const Footer = () => {
+export const Footer = ({children}) => {
     return (
         <footer >
             <div className={styles.containerFooter}>
