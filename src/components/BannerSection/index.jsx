@@ -1,6 +1,6 @@
 import BannerImg from "../../assets/banner-img.png";
 import styles from "./style.module.css";
-import { username } from "../../data/user"
+import { username } from "../../data/user";
 
 export const BannerSection = () => {
     return (

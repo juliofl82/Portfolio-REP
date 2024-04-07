@@ -5,7 +5,8 @@
     align-items: center;
     max-width: 62.25rem;
     padding-top: 20px; 
-    margin: 0 auto;        
+    margin: 0 auto;  
+    min-height: 2.4375rem;
 }
 
 @media (min-width: 320px) and (max-width: 767px) { 
@@ -13,7 +14,8 @@
         flex-direction: column; 
         justify-content: space-between; 
         align-items: center;   
-        width: 16rem;            
+        width: 16rem;  
+                  
     }
 }
 

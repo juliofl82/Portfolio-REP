@@ -46,7 +46,5 @@
     font-family: var(--font-primary);
     font-weight: 600;
     line-height: 1.0625rem;
-    size: .875rem;
-    /* align-self: center;    */
-    
+    size: .875rem;    
 }
