@@ -13,8 +13,8 @@ export const HomePage = () => {
                 <BannerSection />
                 <AboutMe />
                 <Tecnologies />
-                <Projects />                
-                <Footer />
+                <Projects />
+                <Footer />                
             </main>
         </>
     );
