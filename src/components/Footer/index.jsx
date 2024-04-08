@@ -6,7 +6,7 @@ export const Footer = () => {
     return (
         <footer >
             <div className={styles.containerFooter}>
-                <div>
+                <div className={styles.contatoBox}>
                     <h2 className='title2'>Contato</h2>
                     <div className={styles.imgSocial}>
                         <img src={SocialIcons} alt="Redes sociais" />

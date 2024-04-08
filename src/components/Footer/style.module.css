@@ -3,12 +3,19 @@
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;    
-    /* margin: 4.375rem auto; */
     border-bottom: 1px solid white;  
     border-top: 1px solid white;   
-    max-height: auto;
-    margin: 0 auto; 
+    max-height: 11.875rem;
+    height: 11.875rem;
+    margin: 1.25rem auto; 
     max-width: 62.25rem; 
+}
+
+.contatoBox {
+    display: flex;
+    flex-direction: column;
+    gap: .625rem;
+    max-height: 5.5625rem;
 }
 
 @media (max-width: 768px) { 
